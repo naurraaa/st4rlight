@@ -1,0 +1,7 @@
+name = "room-booking-api"
+compatibility_date = "2024-06-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "room_booking"
+database_id = "REPLACE_WITH_YOUR_D1_DB_ID"
